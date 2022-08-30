@@ -1,1 +1,3 @@
 Hello
+
+Welcome to day 2 git training
